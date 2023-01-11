@@ -1,5 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-
 <h1 align="center">Hi 👋, I'm sucharith</h1>
 <h3 align="center">A passionate developing the new things</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
