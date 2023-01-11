@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm sucharith</h1>
 <h3 align="center">A passionate developing the new things</h3>
 
-
+<div>
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **msaisucharith@gmail.com**
 
 <img align="right" alt="Coding"  width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msai123456&label=Profile%20views&color=0e75b6&style=flat" alt="msai123456" /> </p>
 
