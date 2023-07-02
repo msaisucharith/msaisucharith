@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msaisucharith" alt="msaisucharith" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **msaisucharith@gmail.com**
 
