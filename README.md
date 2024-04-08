@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  sai sucharith</h1>
+<h1 align="center">Hi 👋, I'm  sai sucharith </h1>
 <h3 align="center">A passionate developing the new things </h3>
 
 <img align="center" alt="Coding"  width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
